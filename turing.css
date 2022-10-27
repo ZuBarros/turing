@@ -1,0 +1,173 @@
+img{
+    
+    width: 125px;
+    margin-top: 3px;
+    margin-left: 13px;
+
+}
+
+header a{
+
+    text-decoration: none;
+    position: relative;
+    color: black;
+    font-size: 18px;
+    cursor: pointer;
+}
+
+header{
+    padding: 48px 0;
+    font-size: var(--btn-fz);
+    border-radius: var(--btn-radius);
+    position: relative;
+}
+
+header button{
+    position: relative;
+    font-size: 18px;
+    margin-left: 32px;
+    color: white;
+    border-radius: 5px;
+    border: none;
+    background: #2E6EDF;
+    padding: 13px;
+    font-weight: bolder ;
+
+
+}
+
+hr {
+    border-radius: 10px;
+    background-color: #aaa;
+}
+
+.verde h1{
+    font-size: 45px;
+    width: 400px;
+    margin-top: 20px;
+    text-align: start;
+}
+
+.verde p{
+    font-size: 20px;
+    margin-top: 30px;
+}
+
+.verde p1{
+    color: #2E6EDF;
+}
+
+.verde button{
+    margin-top: 30px;
+    margin-left: 0px;
+
+}
+
+.verde p2{
+    font-size: 15px;
+}
+
+.verde a{
+   color: #2E6EDF;
+   font-weight: bolder;
+   margin-left: 5px;
+
+}
+
+.verde img{
+
+    width: 800px;
+}
+
+.Join{
+    font-size: 13px;
+    color: dimgray;
+}
+.green{
+    
+    align-items: center;
+}
+
+.mundo{
+    background: url(mund.PNG);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.texto{
+    color: white;
+}
+
+.mundo h3{
+    font-size: 50px;
+    margin-top: 150px;
+}
+
+.mundo h4{
+    font-size: 30px;
+    margin-top: 45px;
+
+}
+
+.mundo h5{
+    font-size: 30px;
+}
+
+.mundo .setas{
+    color: white;
+    margin-top: 95px;
+    font-size: 20px;
+    
+
+}
+
+.mundo .setas .primeiro{
+    display: flex;
+    background-color: rgba(255, 255, 255, 0.123);
+    border-radius: 5px;
+    gap: 30px;
+}
+
+.mundo {
+    height: 700px;
+}
+
+.mundo i{
+    font-size: 35px;
+    margin-right: 10px;
+    background-color: rgba(255, 255, 255, 0.123);
+
+}
+
+
+.barco img{
+    width: 700px;
+}
+ 
+.barco h2{
+    font-size: 40px;
+    margin-top: 50px;
+}
+
+.barco p{
+    font-size:23px ;
+    margin-top: 45px;
+}
+
+.barco i{
+    background-color: rgba(255, 255, 255, 0.411);
+    margin-right: 20px;
+}
+
+.barco button{
+    margin-left: 0px;
+    margin-top: 30px;
+}
+
+hr{
+    margin-top: 50px;
+}
+  
+
+
